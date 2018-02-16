@@ -1,0 +1,10 @@
+# FILES NOT TO TRACK WITH GIT
+
+*.pyc
+*.pyo
+*.dat
+Data/
+Log/
+*egg-info/
+*.sql
+*.json
